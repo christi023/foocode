@@ -1,1 +1,1 @@
-# foocode
+# Practices on fixing issues 
